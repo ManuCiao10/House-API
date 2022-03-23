@@ -2,7 +2,7 @@ import concurrent.futures
 import requests
 import random
 
-list = open("user-proxies.txt", "r").readlines()
+list = open("proxies.txt", "r").readlines()
 
 def extract(proxy):
     try:
