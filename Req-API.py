@@ -331,16 +331,4 @@ for key, value in city.items():
 
 end = time.time()
 print(f"Runtime of the program is {end - start}")
-
-# Increasing speed using a Session
-# Restart python file every 24h
-
-#-Web-Sites-#
-
-# Create Web-Sites (Tecnologico con python- Design con le case API)
-# aggiungere membership pagare !
-# fare foto/grafica da sponsorizare
-
-#-MAYBE-#
-
-# Convert the code in executive file .exe --> Running in Server           
+      
