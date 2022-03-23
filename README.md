@@ -1,25 +1,26 @@
-# YOOX Account Creator
+# HOUSE API
 
-🚀 Create endless amounts of free Yoox Accounts. 🚀
+🚀 Check three Italian house websites 🚀
 
 ## Features
 
-* Random inputs for Name, Surname, Phone-Number✏️
-* Save Account details after Creation in .cvs file 🧾
-* Full Auto Account Creation 🤖
+* Receive a message with all the new houses every day ✏️
+* 3 websites supported 🧾
+* remember the access on WhatsApp 🤖
+* bypass QR-Code on WhatsApp
 
 ## Getting Started
 
-This script can create yoox Free Mail Accounts with the usage of proxies.
+This script can send you every day all the new houses published the day that you run the code
+Using proxies to rotate the IP of the requests
 
 ### Support 👨‍💻
 
-Any problems with running the script and any questions please cantact me via Twitter [@emanuel90698717](https://twitter.com/emanuel90698717)
+Any problems with running the script and any questions please contact me via Twitter [@emanuel90698717](https://twitter.com/emanuel90698717)
 
 #### Before We get started
 
-You will need to have your own cathall.
-Get a cheap one here: (https://www.namecheap.com/)
+You will need to have Whatsapp
 
 Get cheap Premium proxies here: [Proxy-Cheap](https://app.proxy-cheap.com/r/4l2Djs)
 
@@ -27,9 +28,7 @@ You will need Static Residential Proxies
 
 ## Output
 
-You will find account details in list.csv in this format.
-
-Email | Password
+You will find the list of the houses in the city Folder.
 
 ## License
 
